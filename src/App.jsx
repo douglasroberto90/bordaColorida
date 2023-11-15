@@ -13,6 +13,14 @@ export default function App() {
         <li>Ir dormir</li>
       </ol>
       </BordaColorida>
+      <ContainerImagem legenda="Opaloso">
+        <img src='./assets/opala.jpg' alt=''></img>
+      </ContainerImagem>
+      <BordaColorida>
+        <ContainerImagem legenda="Maveco">
+          <img src='./assets/maverick.jpg' alt=''></img>
+        </ContainerImagem>
+      </BordaColorida>
     </div>
   )
 }
